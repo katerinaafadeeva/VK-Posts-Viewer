@@ -22,4 +22,4 @@ Push notifications are made using the react-toastify library.
 
 After you have forked this repository, you need to open the server (server) and client (posts-viewer) terminals and execute the commands : npm run start and npm start accordingly
 
-Havr fun ¯\_(ツ)_/¯ 
+Have fun ¯\_(ツ)_/¯ 
